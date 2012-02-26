@@ -7,6 +7,7 @@
 // @copyright  2011+, Aviram segal
 // ==/UserScript==
 
+console.log('Running WebSphere Change Log Detail Levels Fixer');
 var elements = document.getElementsByTagName('*');
 for (var i = elements.length - 1; i >= 0; i--)
 {
